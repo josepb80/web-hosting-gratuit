@@ -2,9 +2,9 @@
 
 | Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Google Cloud |
+| HubSpot  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Hostinger  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| AwardSpace |
 | Github |
 | One Drive |
 | HubSpot |
