@@ -2,11 +2,8 @@
 
 | Proveïdor  | Espai d'emmagatzematge | Ample de banda  | Dominis i Subdominis | Certificat SSL  | Publicitat | Altres Característiques | Enllaç |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Googole Drive | 100 GB        | 5 TB                  | Espacio              | Espacio         | Si         | Espacio    | [Enllaç](https://workspace.google.com/intl/es/products/drive/) |
-|Byet           | Espacio       | Espacio               | Espacio              | Espacio         | Espacio    | Espacio    | [Enllaç](https://byet.host/) |
-| AwardSpace    | Espacio       | Espacio               | Espacio              | Espacio         | Espacio    | Espacio    | [Enllaç](https://www.awardspace.com/) |
-| InfinityFree  | Espacio       | Espacio               | Espacio              | Espacio         | Espacio    | MySQL      | [Enllaç](https://www.infinityfree.com/)  |
-| Cowabi        | 10 GB         | Espacio               | Espacio              | Espacio         | Espacio    | Espacio    | [Enllaç](https://cowabi.com/)  |
-
-| ExempleHost1   | 500 MB             | 5 GB            | Subdomini            | Sí              | Sí         | Suport per a WordPress  | Enllaç |
-| ExempleHost2   | 1 GB               | 10 GB           | Domini personalitzat | No              | No         | Base de dades MySQL     | Enllaç |
+| Free Hosting | Espacio             | Espacio            | Espacio            | Espacio         | Espacio         | Espacio   | [Enllaç](https://www.freehosting.com/) |
+| Byet          | 1 GB             | Il·limitat         | Subdomini            | Si         | No         | MySQL, PHP Support    | [Enllaç](https://byet.host/) |
+| AwardSpace    | 1-50 GB	| 5 GB - Il·limitat	| Domini personalitzat, 2 dominis| Si              | No        | MySQL, PostgreSQL | [Enllaç](https://www.awardspace.com/) |
+| InfinityFree  | 5 GB              | Il·limitat	      | Subdomini              | Si         | No         | MySQL, MariaDB      | [Enllaç](https://www.infinityfree.com/)  |
+| Cowabi        | 5-100 GB            | 50-500 GB       | Dominis personalitzats| Si         | Si         | Panel de control Plesk | [Enllaç](https://cowabi.com/)  |
